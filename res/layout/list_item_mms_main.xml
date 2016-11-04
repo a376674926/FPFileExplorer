@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/list_item_height"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/mms_main_item_bg" >
+
+        <RelativeLayout
+            android:id="@+id/item_pre_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentLeft="true" >
+
+            <TextView
+                android:id="@+id/mms_main_list_index"
+                style="@style/mms_main_index_style" />
+
+            <TextView
+                android:id="@+id/mms_main_list_item_text"
+                style="@style/mms_main_item_style"
+                android:layout_toRightOf="@id/mms_main_list_index"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@id/item_pre_layout" >
+
+            <TextView
+                android:id="@+id/mms_list_time_text"
+                style="@style/mms_list_time_style"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/unread_sms"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="3.0dip"
+                android:layout_toLeftOf="@id/mms_list_time_text"
+                android:background="@drawable/unread_sms_bg"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/sms_count_text"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@id/item_pre_layout"
+            android:visibility="gone" >
+
+            <TextView
+                android:id="@+id/count_icon_right"
+                style="@style/mms_list_time_style"
+                android:text="@string/right_brackets" />
+
+            <TextView
+                android:id="@+id/sms_count"
+                style="@style/mms_list_time_style"
+                android:layout_marginRight="15.0dip"
+                android:layout_toLeftOf="@id/count_icon_right" />
+
+            <TextView
+                style="@style/mms_list_time_style"
+                android:layout_marginRight="25.0dip"
+                android:layout_toLeftOf="@id/sms_count"
+                android:text="@string/left_brackets" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/mms_main_divider" />
+
+</LinearLayout>

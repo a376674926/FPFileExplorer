@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <bool name="enable_limit_view_path">true</bool>
+    <bool name="enable_fuse_limit_path">true</bool>
+    <bool name="enable_mulit_storage">true</bool>
+    <bool name="enable_external_storage_default">true</bool>
+    <string name="limited_root_path" translatable="false">/mnt/storage</string>
+    <string-array name="storage_list">
+        <item>@string/default_primary_folder</item>
+        <item>@string/default_secondary_folder</item>
+    </string-array>
+        <string-array name="storage_descriptions">
+        <item>@string/storage_internal</item>
+        <item>@string/storage_sd_card</item>
+    </string-array>
+    <string-array name="hide_path_list">
+        <item>/storage/emulated</item>
+    </string-array>
+    <string name="default_primary_folder" translatable="false">/mnt/storage/sdcard0</string>
+    <string name="default_secondary_folder" translatable="false">/mnt/storage/sdcard1</string>
+</resources>

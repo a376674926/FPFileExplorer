@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2011-2012, Qualcomm Technologies, Inc.
+  All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+  -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="added_favorite">Tambahkan ke favorit</string>
+    <string name="app_name">Penjelajah File</string>
+    <string name="cancel">Batalkan</string>
+    <string name="category_all">Semua</string>
+    <string name="category_apk">APK</string>
+    <string name="category_document">Dokumen</string>
+    <string name="category_favorite">Favorit</string>
+    <string name="category_music">Musik</string>
+    <string name="category_other">Lain-lain</string>
+    <string name="category_picture">Gambar</string>
+    <string name="category_theme">Tema</string>
+    <string name="category_video">Video</string>
+    <string name="category_zip">Kode</string>
+    <string name="confirm">Oke</string>
+    <string name="confirm_know">Oke</string>
+    <string name="enable_sd_card">Kartu SD tidak tersedia, silahkan hubungkan kartu SD</string>
+    <string name="error_info_cant_send_folder">Tidak dapat mengirim ke folder</string>
+    <string name="fail_to_create_folder">Gagal membuat folder, folder sudah ada</string>
+    <string name="fail_to_rename">Gagal mengubah nama, file atau folder sudah ada</string>
+    <string name="file_info_canread">Yang dapat dibaca:</string>
+    <string name="file_info_canwrite">Yang dapat ditulis:</string>
+    <string name="file_info_ishidden">Yang tersembunyi:</string>
+    <string name="file_info_location">Jalur:</string>
+    <string name="file_info_modified">Yang diubah:</string>
+    <string name="file_info_size">Ukuran:</string>
+    <string name="file_size">%d bytes</string>
+    <string name="install_failed">Instalasi gagal</string>
+    <string name="install_successful">Instalasi berhasil</string>
+    <string name="instruction">Masukan alamat berikut ke klien FTP anda:</string>
+    <string name="instruction_pre">Memulai layanan untuk mengaktifkan server FTP</string>
+    <string name="menu_item_search">Pencarian</string>
+    <string name="menu_item_sort">Urut berdasarkan</string>
+    <string name="menu_item_sort_date">Tanggal</string>
+    <string name="menu_item_sort_name">Nama</string>
+    <string name="menu_item_sort_size">Ukuran</string>
+    <string name="menu_item_sort_type">Jenis</string>
+    <string name="new_folder_name">Folder baru</string>
+    <string name="no">Tidak</string>
+    <string name="no_file">Tidak ada file</string>
+    <string name="no_wifi">Tidak ada jaringan Wi-Fi</string>
+    <string name="no_wifi_hint">Tidak ada jaringan Wi-Fi, tekan untuk memeriksa pengaturan Wi-Fi</string>
+    <string name="notif_server_starting">Server FTP dimulai</string>
+    <string name="notif_title">Server FTP</string>
+    <string name="operation_cancel">Batalkan</string>
+    <string name="operation_cancel_selectall">Batalkan semua</string>
+    <string name="operation_copy">Menyalin</string>
+    <string name="operation_copy_path">Menyalin jalur file</string>
+    <string name="operation_create_folder">Folder baru</string>
+    <string name="operation_create_folder_message">Masukan nama folder</string>
+    <string name="operation_delete">Hapus</string>
+    <string name="operation_delete_confirm_message">Konfirmasi untuk menghapus?</string>
+    <string name="operation_deleting">Sedang menghapus…</string>
+    <string name="operation_favorite">Tambahkan ke favorit</string>
+    <string name="operation_hide_sys">Sembunyikan file yang tersembunyi</string>
+    <string name="operation_info">Rincian</string>
+    <string name="operation_move">Pindahkan</string>
+    <string name="operation_moving">Memindahkan…</string>
+    <string name="operation_paste">Tempelkan</string>
+    <string name="operation_pasting">Menempelkan…</string>
+    <string name="operation_refresh">Menyegarkan</string>
+    <string name="operation_rename">Mengubah nama</string>
+    <string name="operation_rename_message">Masukan nama baru</string>
+    <string name="operation_selectall">Pilih semua</string>
+    <string name="operation_send">Bagikan</string>
+    <string name="operation_show_sys">Tunjukan file yang tersembunyi</string>
+    <string name="operation_unfavorite">Pindahkan dari Favorit</string>
+    <string name="removed_favorite">Telah dipindah dari Favorit</string>
+    <string name="sd_card_size">Kartu SD:<xliff:g id="total_size">%1$s</xliff:g></string>
+    <string name="sd_card_available">Ruang tersedia:<xliff:g id="available_size">%1$s</xliff:g></string>
+    <string name="storage_size"><xliff:g id="storage_name">%1$s</xliff:g>:<xliff:g id="total_size">%2$s</xliff:g></string>
+    <string name="storage_available">Ruang tersedia:<xliff:g id="available_size">%1$s</xliff:g></string>
+    <string name="sd_folder">Kartu SD</string>
+    <string name="search_hint">Pencarian file</string>
+    <string name="search_title">Search Files</string>
+    <string name="start_server">Pencarian file</string>
+    <string name="stop_server">Memberhentikan layanan</string>
+    <string name="storage_warning">Penyimpanan eksternal tidak tersedia atau tidak dapat dibaca</string>
+    <string name="tab_category">Menelusuri</string>
+    <string name="tab_remote">FTP</string>
+    <string name="tab_sd">File</string>
+    <string name="wifi_state">Status WLAN</string>
+    <string name="yes">Ya</string>
+    <string name="dialog_select_type">Pilih jenis file</string>
+    <string name="dialog_type_text">Teks</string>
+    <string name="dialog_type_audio">Audio</string>
+    <string name="dialog_type_video">Video</string>
+    <string name="dialog_type_image">Gambar</string>
+    <string name="favorite_photo">Foto</string>
+    <string name="favorite_sdcard">Kartu SD</string>
+    <string name="favourite_root">Root</string><string name="favorite_screen_cap">gambar layar MIUI </string>
+    <string name="favorite_ringtone">Nada dering</string>
+    <string name="multi_select_title">Dipilih <xliff:g id="number">%1$s</xliff:g> item(s)</string>
+    <string name="menu_setting">Pilihan</string>
+    <string name="menu_exit">Keluar</string>
+    <string name="preference_title">Pengaturan Umum</string>
+    <string name="pref_primary_folder">Folder asal</string>
+    <string name="pref_read_root">Membaca root</string>
+    <string name="pref_show_real_path">Tampilan jalur nyata</string>
+    <string name="pref_primary_folder_summary">Folder yang muncul ketika aplikasi dimulai, dan nilainya sekarang adalah <xliff:g id="string">%1$s</xliff:g></string>
+    <string name="pref_show_real_path_summary">Tampilkan jalur nyata dalam navigasi bar</string>
+
+    <!-- add begin -->
+    <!-- Storage description for internal storage. [CHAR LIMIT=NONE] -->
+    <string name="storage_internal">Penyimpanan internal</string>
+    <!-- Storage description for internal SD card. [CHAR LIMIT=NONE] -->
+    <string name="storage_internal_sd">Penyimpanan internal</string>
+    <!-- Storage description for the SD card. [CHAR LIMIT=NONE] -->
+    <string name="storage_sd_card">Kartu SD</string>
+    <!-- Storage description for USB storage. [CHAR LIMIT=NONE] -->
+    <string name="storage_usb">Penyimpanan USB</string>
+    <string name="operation_set_ringtone">Atur sebagai nada dering telepon</string>
+    <string name="fail_to_paste">Menempelkan gagal, tidak dapat merubah folder saat ini</string>
+    <!-- add end -->
+
+    <!-- add begin by lzy@20140306 -->
+    <string name="prompt_folder_name_not_empty">File name tidak boleh kosong</string>
+    <string name="prompt_paste_fail_no_space">Paste gagal,tidak cukup ruang disk</string>
+    <string name="prompt_activity_not_found">Tidak dapat menemukan aplikasi untuk membuka file ini</string>
+    <string name="prompt_max_limit_length">Batas panjang maksimum telah tercapai</string>
+    <!-- add end -->
+
+    <string name="fail_to_create_long_name_folder">Buat folder gagal,masukkan nama terlalu panjang!</string>
+    <string name="fail_to_create_long_name_file">Rename gagal,masukkan nama yang terlalu panjang!</string>
+
+</resources>

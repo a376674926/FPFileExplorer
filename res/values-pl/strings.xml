@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="added_favorite">"Dodano do ulubionych"</string>
+  <string name="app_name">"Eksplorator plików"</string>
+  <string name="cancel">"anulować"</string>
+  <string name="category_all">"wszystko"</string>
+  <string name="category_favorite">"Ulubione"</string>
+  <string name="category_music">"muzyka"</string>
+  <string name="category_other">"Różne"</string>
+  <string name="category_picture">"fotki"</string>
+  <string name="category_theme">"Tematy"</string>
+  <string name="category_video">"Filmy"</string>
+  <string name="confirm">"dobrze"</string>
+  <string name="confirm_know">"dobrze"</string>
+  <string name="enable_sd_card">"Karta SD nie jest dostępny, należy podłączyć jeden"</string>
+  <string name="error_info_cant_send_folder">"Nie można wysłać folder"</string>
+  <string name="fail_to_create_folder">"Nie udało się utworzyć folder, folder już istnieje"</string>
+  <string name="fail_to_rename">"Nie udało się zmienić nazwę pliku lub folderu, ponieważ już istnieje"</string>
+  <string name="file_info_canread">"czytelny:"</string>
+  <string name="file_info_canwrite">"zapisu:"</string>
+  <string name="file_info_ishidden">"ukryty:"</string>
+  <string name="file_info_location">"ścieżka:"</string>
+  <string name="file_info_modified">"Ostatnia aktualizacja:"</string>
+  <string name="file_info_size">"Rozmiar:"</string>
+  <string name="file_size">"%d bajtów"</string>
+  <string name="install_failed">"Instalacja nie powiodła się"</string>
+  <string name="install_successful">"Instalacja sukces"</string>
+  <string name="instruction">"Wprowadź następujący adres do klienta FTP:"</string>
+  <string name="instruction_pre">"Uruchom usługę włączyć serwer FTP"</string>
+  <string name="menu_item_search">"poszukiwanie"</string>
+  <string name="menu_item_sort">"Sortuj według"</string>
+  <string name="menu_item_sort_date">"data"</string>
+  <string name="menu_item_sort_name">"nazwa"</string>
+  <string name="menu_item_sort_size">"rozmiar"</string>
+  <string name="menu_item_sort_type">"typ"</string>
+  <string name="new_folder_name">"Nowy folder"</string>
+  <string name="no">"nie"</string>
+  <string name="no_file">"Brak plików"</string>
+  <string name="no_wifi">"Brak sieci Wi-Fi"</string>
+  <string name="no_wifi_hint">"Brak sieci Wi-Fi, naciśnij przycisk, aby sprawdzić ustawienia WiFi"</string>
+  <string name="operation_cancel">"anulować"</string>
+  <string name="operation_cancel_selectall">"Odznacz wszystko"</string>
+  <string name="operation_copy">"kopia"</string>
+  <string name="operation_copy_path">"Ścieżka kopiowania plików"</string>
+  <string name="operation_create_folder">"Nowy folder"</string>
+  <string name="operation_create_folder_message">"Wpisz nazwę folderu"</string>
+  <string name="operation_delete">"usunąć"</string>
+  <string name="operation_delete_confirm_message">"Potwierdź usunięcie?"</string>
+  <string name="operation_deleting">"Usuwanie ..."</string>
+  <string name="operation_favorite">"Dodaj do ulubionych"</string>
+  <string name="operation_hide_sys">"Ukryj ukryte pliki"</string>
+  <string name="operation_info">"szczegóły"</string>
+  <string name="operation_move">"ruch"</string>
+  <string name="operation_moving">"Przeprowadzka ..."</string>
+  <string name="operation_paste">"pasta"</string>
+  <string name="operation_pasting">"Wklejanie ..."</string>
+  <string name="operation_refresh">"Odśwież"</string>
+  <string name="operation_rename">"przemianować"</string>
+  <string name="operation_rename_message">"Wprowadź nową nazwę"</string>
+  <string name="operation_selectall">"Zaznacz wszystko"</string>
+  <string name="operation_send">"udział"</string>
+  <string name="operation_show_sys">"Pokaż ukryte pliki"</string>
+  <string name="operation_unfavorite">"Usuń z ulubionych"</string>
+  <string name="removed_favorite">"Usunięto z ulubionych"</string>
+  <string name="sd_card_size">karta SD:
+    <xliff:g id="total_size">%1$s</xliff:g>
+  </string>
+  <string name="sd_card_available">przestrzeń dostępna:
+    <xliff:g id="available_size">%1$s</xliff:g>
+  </string>
+  <string name="storage_available">przestrzeń dostępna:
+    <xliff:g id="available_size">%1$s</xliff:g>
+  </string>
+  <string name="sd_folder">"karta SD"</string>
+  <string name="search_hint">"Szukaj plików"</string>
+  <string name="search_title">"Szukaj plików"</string>
+  <string name="start_server">"Włącz usługę"</string>
+  <string name="stop_server">"Zatrzymaj usługę"</string>
+  <string name="storage_warning">"Pamięć zewnętrzna nie są dostępne lub nie mogą być odczytywane"</string>
+  <string name="tab_category">"Przeglądaj"</string>
+  <string name="tab_sd">"plik"</string>
+  <string name="wifi_state">"Stan Wi-Fi"</string>
+  <string name="yes">"tak"</string>
+  <string name="dialog_select_type">"Wybierz typ pliku"</string>
+  <string name="dialog_type_text">"tekst"</string>
+  <string name="dialog_type_audio">"audio"</string>
+  <string name="dialog_type_video">"wideo"</string>
+  <string name="dialog_type_image">"obraz"</string>
+  <string name="favorite_photo">"zdjęcie"</string>
+  <string name="favorite_sdcard">"Karta SD"</string>
+  <string name="favourite_root">"korzeń"</string>
+  <string name="favorite_ringtone">"Dzwonek"</string>
+  <string name="multi_select_title">wybrany
+    <xliff:g id="number">%1$s</xliff:g> pozycja
+  </string>
+  <string name="menu_setting">"preferencje"</string>
+  <string name="menu_exit">"Wyjście"</string>
+  <string name="preference_title">"Ustawienia ogólne"</string>
+  <string name="pref_primary_folder">"katalog domowy"</string>
+  <string name="pref_read_root">"Czytaj korzeń"</string>
+  <string name="pref_show_real_path">"Wyświetlić realną ścieżkę"</string>
+  <string name="pref_primary_folder_summary">Folder, który pojawia się podczas uruchamiania aplikacji, a wartość bieżąca jest
+    <xliff:g id="string">%1$s</xliff:g>
+  </string>
+  <string name="pref_show_real_path_summary">"Pokaż prawdziwą ścieżkę w pasku nawigacji"</string>
+  <!-- add begin -->
+  <!-- Storage description for internal storage. [CHAR LIMIT=NONE] -->
+  <string name="storage_internal">"Pamięć wewnętrzna"</string>
+  <!-- Storage description for internal SD card. [CHAR LIMIT=NONE] -->
+  <string name="storage_internal_sd">"Wewnętrzna karta SD"</string>
+  <!-- Storage description for the SD card. [CHAR LIMIT=NONE] -->
+  <string name="storage_sd_card">"karta SD"</string>
+  <!-- Storage description for USB storage. [CHAR LIMIT=NONE] -->
+  <string name="storage_usb">"pamięci USB"</string>
+  <string name="operation_set_ringtone">"Ustaw jako dzwonek telefonu"</string>
+  <string name="fail_to_paste">"Nie udało się przenieść, nie może zmienić się w bieżącym folderze"</string>
+  <!-- add end -->
+  <!-- add begin by lzy@20140303 -->
+  <string name="prompt_folder_name_not_empty">"Nazwa pliku nie może być puste"</string>
+  <string name="prompt_paste_fail_no_space">"Nie udało się przenieść, mało miejsca na dysku"</string>
+  <string name="prompt_activity_not_found">"Nie można znaleźć aplikacji, aby otworzyć ten plik"</string>
+  <string name="prompt_max_limit_length">"Osiągnie maksymalną długość granica wprowadzania"</string>
+  <!-- add end -->
+  <string name="fail_to_create_long_name_folder">"Nie udało się utworzyć folder, nazwa folderu jest za długa!"</string>
+  <string name="fail_to_create_long_name_file">"Nie udało się zmienić nazwy, nazwa jest za długa!"</string>
+  <string name="progress_dialog_loading_warning">"Proszę cierpliwie czekać, pliki ładują ..."</string>
+  <string name="category_apk">"Pliki APK"</string>
+  <string name="category_document">"Dokumenty"</string>
+  <string name="category_zip">"Zipy"</string>
+  <string name="notif_server_starting">"Uruchomiono serwer FTP"</string>
+  <string name="notif_title">"Serwer FTP"</string>
+  <string name="storage_size">
+    <xliff:g id="storage_name">%1$s</xliff:g>:
+    <xliff:g id="total_size">%2$s</xliff:g>
+  </string>
+  <string name="tab_remote">"FTP"</string>
+  <string name="favorite_screen_cap">"Zrzut ekranu MIUI "</string>
+</resources>

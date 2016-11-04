@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (c) 2011-2012, Qualcomm Technologies, Inc.
+  All Rights Reserved.
+  Qualcomm Technologies Proprietary and Confidential.
+  -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<string name="storage_internal">"ذاكرة التخزين الداخلية"</string>
+	<string name="app_name">"مستكشف الملفات"</string>
+	 <string name="menu_item_search">"بحث"</string>
+    <string name="menu_item_sort">"ترتيب حسب"</string>
+    <string name="menu_item_sort_date">"تاريخ"</string>
+    <string name="menu_item_sort_name">"اسم"</string>
+    <string name="menu_item_sort_size">"حجم"</string>
+    <string name="menu_item_sort_type">"نوع"</string>
+    <string name="new_folder_name">"مجلد جديد"</string>
+    <string name="operation_cancel">Cancel</string>
+    <string name="operation_cancel_selectall">"إلغاء جميع"</string>
+    <string name="operation_copy">"نسخة"</string>
+    <string name="operation_copy_path">"مسار ملف نسخة"</string>
+    <string name="operation_create_folder">"مجلد جديد"</string>
+    <string name="operation_create_folder_message">"أدخل اسم المجلد"</string>
+    <string name="operation_delete">"حذف"</string>
+    <string name="operation_delete_confirm_message">"تأكيد الحذف؟"</string>
+    <string name="operation_deleting">"حذف ..."</string>
+    <string name="operation_favorite">"إضافة إلى المفضلة"</string>
+    <string name="operation_hide_sys">"إخفاء الملفات المخفية"</string>
+    <string name="operation_info">"تفاصيل"</string>
+    <string name="operation_move">"خطوة"</string>
+    <string name="operation_moving">"تتحرك ..."</string>
+    <string name="operation_paste">"معجون"</string>
+    <string name="operation_pasting">"لصق ..."</string>
+    <string name="operation_refresh">"تحديث"</string>
+    <string name="operation_rename">"إعادة تسمية"</string>
+    <string name="operation_rename_message">"أدخل اسما جديدا"</string>
+    <string name="operation_selectall">"اختيار الكل"</string>
+    <string name="operation_send">"مشاركة"</string>
+    <string name="operation_show_sys">"اظهار الملفات المخفيه"</string>
+    <string name="operation_unfavorite">"إزالة من المفضلة"</string>
+    <string name="removed_favorite">"إزالة من المفضلة"</string>
+    <string name="menu_setting">"المراجع"</string>
+    <string name="menu_exit">"خروج"</string>
+    <string name="preference_title">"إعدادات عامة"</string>
+    <string name="pref_primary_folder">"المجلد الرئيسي"</string>
+    <string name="pref_read_root">"قراءة الجذر"</string>
+    <string name="pref_show_real_path">"عرض المسار الحقيقي"</string>
+    <string name="pref_primary_folder_summary">"المجلد الذي يظهر عندما يبدأ التطبيق، والقيمة الحالية<xliff:g id="string">%1$s</xliff:g>"</string>
+    <string name="pref_show_real_path_summary">"تظهر مسار حقيقي في شريط التنقل"</string>
+    <string name="storage_internal_sd">"بطاقة SD داخلية"</string>
+    <string name="storage_sd_card">"SD بطاقة"</string>
+    <string name="storage_usb">"تخزين USB"</string>
+    <string name="operation_set_ringtone">"تعيين كنغمة رنين الهاتف"</string>
+    <string name="fail_to_paste">"فشل للصق، غير قادر على تعديل في المجلد الحالي"</string>
+     <string name="prompt_folder_name_not_empty">"اسم الملف لا يمكن أن تكون فارغة"</string>
+    <string name="prompt_paste_fail_no_space">"فشل للصق، ومساحة كافية على القرص"</string>
+    <string name="prompt_activity_not_found">"لا يمكن العثور على تطبيق لفتح هذا الملف"</string>
+    <string name="prompt_max_limit_length">"وقد بلغ الحد الأقصى للطول الحد مدخلات"</string>
+     <string name="fail_to_create_long_name_folder">"فشل في إنشاء المجلد اسم المجلد طويل جدا!"</string>
+    <string name="fail_to_create_long_name_file">"فشل في إعادة تسمية اسم طويل جدا!"</string>
+    <string name="progress_dialog_loading_warning">"يرجى الانتظار بصبر، وتقوم بتحميل الملفات ..."</string>
+</resources>

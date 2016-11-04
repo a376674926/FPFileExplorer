@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="sort_by">
+        <item>@string/menu_item_sort_date</item>
+        <item>@string/menu_item_sort_name</item>
+        <item>@string/menu_item_sort_size</item>
+        <item>@string/menu_item_sort_type</item>
+    </string-array>
+    <string-array name="file_option_menu">
+        <item>@string/operation_create_folder</item>
+        <item>@string/operation_copy</item>
+        <item>@string/operation_move</item>
+        <item>@string/operation_send</item>
+        <item>@string/operation_rename</item>
+        <item>@string/operation_delete</item>
+        <item>@string/operation_info</item>
+    </string-array>
+
+</resources>
